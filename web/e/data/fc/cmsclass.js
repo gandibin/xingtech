@@ -1,1 +1,1 @@
-document.write("<option value=\'1\'>|-product</option>");
+document.write("<option value=\'1\'>|-product</option><option value=\'2\' style=\'background:#99C4E3\'>&nbsp;&nbsp;|-subproduct1</option>");
